@@ -10,8 +10,8 @@
 
 <p align = "center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=zer0-white&show_icons=true&bg_color=000000&title_color=ffff0f&text_color=ff0000&icon_color=ffffff&hide_border=false" width = 410>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-white&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&compact&hide_border=true&layout=compact" width=300>
+  <img src = "https://github-readme-stats.vercel.app/api?username=zer0-white&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffff0f&hide_border=false" width = 410>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-white&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&compact&hide_border=false&layout=compact" width=300>
 
 </p>
 
